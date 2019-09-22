@@ -1,4 +1,4 @@
-package com.example.demo.app
+package com.mod.app
 
 import javafx.scene.text.FontWeight
 import tornadofx.Stylesheet
